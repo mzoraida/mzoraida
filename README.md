@@ -8,7 +8,7 @@
 ## About me
 ## I'm a begginer Java Software developer.
 - 🔭 I’m currently working on some intresting project
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning С++
 
 # Languages and Tools
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
