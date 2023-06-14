@@ -6,7 +6,7 @@
 
 
 ## About me
-## I'm a begginer Java Software developer.
+## I'm a begginer Software developer.
 - 🔭 I’m currently working on some intresting project
 - 🌱 I’m currently learning С++
 
